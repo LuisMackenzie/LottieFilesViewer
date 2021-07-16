@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lottie Files Viewer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at malesuada metus. Sed a ex sed dui vestibulum convallis. Proin rhoncus purus non dui pulvinar gravida. Pellentesque placerat sem leo, quis tristique ligula tempus nec. Vivamus a vulputate ante, at vulputate dolor. Vestibulum vel arcu nec mi porttitor fermentum. Cras faucibus magna turpis, et sollicitudin magna iaculis in. Aenean nisi augue, facilisis facilisis enim non, posuere vestibulum ipsum. Donec at elit vel ligula lobortis congue id non diam. Pellentesque iaculis metus a dui vehicula, nec volutpat sem molestie. Aenean laoreet dolor sit amet est efficitur, sit amet cursus tellus semper. Curabitur vel tincidunt lacus. Pellentesque id tortor condimentum, ultricies justo quis, eleifend mauris. Quisque id convallis nisl. Praesent non purus vitae ipsum euismod tempus non ac lorem. Nullam lacinia orci a ante porttitor viverra.</string>
+</resources>
